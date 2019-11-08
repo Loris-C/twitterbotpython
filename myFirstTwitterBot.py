@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 30 14:24:48 2019
 
-@author: camoinlor
+@author: mctwn
 
 This strategy is the following:
     1. Search for those posts where ppl comment and follow those who liked 
